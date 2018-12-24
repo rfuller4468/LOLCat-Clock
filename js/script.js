@@ -7,7 +7,6 @@ var lunchTime = 12; // 12PM
 var partyTime = 17; // 5PM
 var napTime = lunchTime + 2; // 2PM
 
-
 var updateClock = function () {
     var image = null;
 	var messageText; 
